@@ -1,2 +1,27 @@
-# Programmers-CodingTest
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# Programmers-CodingTest [ 프로그래머스 - 코딩테스트 연습 ]
+
+Level 0 ┐
+
+1. 숫자 비교하기
+2. 나머지 구하기
+3. 몫 구하기
+4. 나이 출력
+5. 두 수의 곱
+6. 두 수의 차
+7. 두 수의 나눗셈
+8. 두 수의 합
+9. 각도기
+10. 짝수의 합
+11. 배열의 평균 값
+12. 양꼬치
+13. 문자열 뒤집기
+14. 편지
+15. 배열 뒤집기
+16. 배열 두 배 만들기
+17. 배열의 유사도
+18. 중복된 숫자 개수
+19. 배열 자르기
+20. 피자 나눠먹기(1)
+21. 피자 나눠먹기(3)
+22. 점의 위치 구하기
+23. 
