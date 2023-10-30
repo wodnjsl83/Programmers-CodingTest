@@ -1,0 +1,1 @@
+const solution = (s,n) => Array.from({length : Math.ceil(s.length/n)}, (v,i) => v = s.substr(i*n,n))
