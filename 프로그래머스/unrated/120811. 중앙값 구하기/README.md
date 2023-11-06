@@ -1,6 +1,6 @@
 # [level unrated] 중앙값 구하기 - 120811 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120811#qna) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120811) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2023년 11월 1일 10:59:55
+2023년 11월 1일 11:2:57
 
 ### 문제 설명
 
