@@ -13,3 +13,14 @@ rl.on('line', function (line) {
     n = Number(input[1]);
     console.log(str.repeat(n))
 });
+
+
+// 또 다른 풀이
+let str = "string";
+let n = 5;
+let answer = "";
+
+for(let i = 0; i<5; i++){
+    answer += str;
+}
+console.log(answer);
