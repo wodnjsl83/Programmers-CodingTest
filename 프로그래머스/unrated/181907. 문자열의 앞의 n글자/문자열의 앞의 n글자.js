@@ -1,3 +1,4 @@
 function solution(my_string, n) {
-    return my_string.slice(0, n);
+    var answer = ""
+    return answer = my_string.split('', n).join('');
 }
